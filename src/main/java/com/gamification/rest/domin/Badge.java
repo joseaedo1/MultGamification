@@ -1,0 +1,11 @@
+
+package com.gamification.rest.domin;
+
+public enum Badge {
+	BRONZE_MULTIPPLICATION,
+	SILVER_MULTIPLICATOR,
+	GOLD_MULTIPLICATOR,
+	FIRST_ATTEMPT,
+	FIRST_WOW,LUCKY_NUMBER
+
+}
